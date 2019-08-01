@@ -1,0 +1,515 @@
+{
+  "users" : [ {
+    "id" : 1,
+    "fullname" : "selman jagxhiu",
+    "username" : "sjagxhiu",
+    "password" : "selman",
+    "email" : "selman.jagxhiu@uni-prizren.com",
+    "dob" : "24/02/1987",
+    "contact" : [ {
+      "id" : 2,
+      "phone" : "111 222 333",
+      "type" : "Mobile"
+    }, {
+      "id" : 3,
+      "phone" : "44444444",
+      "type" : "Work"
+    } ]
+  }, {
+    "id" : 2,
+    "fullname" : "John Doe",
+    "username" : "john",
+    "password" : "john",
+    "email" : "joh.doe@example.com",
+    "dob" : "07/06/2000",
+    "contact" : [ {
+      "id" : 1,
+      "phone" : "666 666 666",
+      "type" : "Home"
+    }, {
+      "id" : 5,
+      "phone" : "1223455",
+      "type" : "Work"
+    } ]
+  }, {
+    "id" : 3,
+    "fullname" : "Jane Doe",
+    "username" : "jane",
+    "password" : "jane",
+    "email" : "jane.doe@example.com",
+    "dob" : "07/09/1999",
+    "contact" : [ {
+      "id" : 4,
+      "phone" : "65456432",
+      "type" : "Mobile"
+    } ]
+  }, {
+    "id" : 4,
+    "fullname" : "filan fisteku",
+    "username" : "filan",
+    "password" : "filan",
+    "email" : "ffisteku@email.com",
+    "dob" : "10/06/1997",
+    "contact" : [ ]
+  }, {
+    "id" : 11,
+    "fullname" : "test24",
+    "username" : "test24",
+    "password" : "TeSt123",
+    "email" : "test24@test.com",
+    "dob" : "23/11/1987",
+    "contact" : [ {
+      "id" : 11,
+      "phone" : "24242424",
+      "type" : "Home"
+    }, {
+      "id" : 12,
+      "phone" : "27272727",
+      "type" : "Mobile"
+    } ]
+  }, {
+    "id" : 12,
+    "fullname" : "test3",
+    "username" : "test3",
+    "password" : "TeSt123",
+    "email" : "test3@test.com",
+    "dob" : "02/11/1987",
+    "contact" : [ {
+      "id" : 13,
+      "phone" : "3333",
+      "type" : "Home"
+    }, {
+      "id" : 14,
+      "phone" : "6666",
+      "type" : "Mobile"
+    } ]
+  }, {
+    "id" : 13,
+    "fullname" : "test25",
+    "username" : "test25",
+    "password" : "TeSt123",
+    "email" : "test25@test.com",
+    "dob" : "24/11/1987",
+    "contact" : [ {
+      "id" : 15,
+      "phone" : "25252525",
+      "type" : "Home"
+    }, {
+      "id" : 16,
+      "phone" : "28282828",
+      "type" : "Mobile"
+    } ]
+  }, {
+    "id" : 14,
+    "fullname" : "test7",
+    "username" : "test7",
+    "password" : "TeSt123",
+    "email" : "test7@test.com",
+    "dob" : "06/11/1987",
+    "contact" : [ {
+      "id" : 17,
+      "phone" : "7777",
+      "type" : "Home"
+    }, {
+      "id" : 18,
+      "phone" : "10101010",
+      "type" : "Mobile"
+    } ]
+  }, {
+    "id" : 15,
+    "fullname" : "test23",
+    "username" : "test23",
+    "password" : "TeSt123",
+    "email" : "test23@test.com",
+    "dob" : "22/11/1987",
+    "contact" : [ {
+      "id" : 19,
+      "phone" : "23232323",
+      "type" : "Home"
+    }, {
+      "id" : 20,
+      "phone" : "26262626",
+      "type" : "Mobile"
+    } ]
+  }, {
+    "id" : 16,
+    "fullname" : "test22",
+    "username" : "test22",
+    "password" : "TeSt123",
+    "email" : "test22@test.com",
+    "dob" : "21/11/1987",
+    "contact" : [ {
+      "id" : 21,
+      "phone" : "22222222",
+      "type" : "Home"
+    }, {
+      "id" : 22,
+      "phone" : "25252525",
+      "type" : "Mobile"
+    }, {
+      "id" : 23,
+      "phone" : "aaa",
+      "type" : "bbbb"
+    } ]
+  }, {
+    "id" : 17,
+    "fullname" : "test24",
+    "username" : "test24",
+    "password" : "TeSt123",
+    "email" : "test24@test.com",
+    "dob" : "23/11/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 18,
+    "fullname" : "test18",
+    "username" : "test18",
+    "password" : "TeSt123",
+    "email" : "test18@test.com",
+    "dob" : "17/11/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 19,
+    "fullname" : "test29",
+    "username" : "test29",
+    "password" : "TeSt123",
+    "email" : "test29@test.com",
+    "dob" : "28/11/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 20,
+    "fullname" : "test10",
+    "username" : "test10",
+    "password" : "TeSt123",
+    "email" : "test10@test.com",
+    "dob" : "09/11/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 21,
+    "fullname" : "test12",
+    "username" : "test12",
+    "password" : "TeSt123",
+    "email" : "test12@test.com",
+    "dob" : "11/11/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 22,
+    "fullname" : "test3",
+    "username" : "test3",
+    "password" : "TeSt123",
+    "email" : "test3@test.com",
+    "dob" : "02/11/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 23,
+    "fullname" : "test5",
+    "username" : "test5",
+    "password" : "TeSt123",
+    "email" : "test5@test.com",
+    "dob" : "04/11/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 24,
+    "fullname" : "test1",
+    "username" : "test1",
+    "password" : "TeSt123",
+    "email" : "test1@test.com",
+    "dob" : "31/10/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 25,
+    "fullname" : "test15",
+    "username" : "test15",
+    "password" : "TeSt123",
+    "email" : "test15@test.com",
+    "dob" : "14/11/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 26,
+    "fullname" : "test14",
+    "username" : "test14",
+    "password" : "TeSt123",
+    "email" : "test14@test.com",
+    "dob" : "13/11/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 27,
+    "fullname" : "test1",
+    "username" : "test1",
+    "password" : "TeSt123",
+    "email" : "test1@test.com",
+    "dob" : "31/10/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 28,
+    "fullname" : "test12",
+    "username" : "test12",
+    "password" : "TeSt123",
+    "email" : "test12@test.com",
+    "dob" : "11/11/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 29,
+    "fullname" : "test12",
+    "username" : "test12",
+    "password" : "TeSt123",
+    "email" : "test12@test.com",
+    "dob" : "11/11/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 30,
+    "fullname" : "test10",
+    "username" : "test10",
+    "password" : "TeSt123",
+    "email" : "test10@test.com",
+    "dob" : "09/11/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 31,
+    "fullname" : "test13",
+    "username" : "test13",
+    "password" : "TeSt123",
+    "email" : "test13@test.com",
+    "dob" : "12/11/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 32,
+    "fullname" : "test30",
+    "username" : "test30",
+    "password" : "TeSt123",
+    "email" : "test30@test.com",
+    "dob" : "29/11/1987",
+    "contact" : [ {
+      "id" : 24,
+      "phone" : "33333333",
+      "type" : "Mobile"
+    } ]
+  }, {
+    "id" : 33,
+    "fullname" : "test8",
+    "username" : "test8",
+    "password" : "TeSt123",
+    "email" : "test8@test.com",
+    "dob" : "07/11/1987",
+    "contact" : [ {
+      "id" : 25,
+      "phone" : "8888",
+      "type" : "Home"
+    }, {
+      "id" : 26,
+      "phone" : "11111111",
+      "type" : "Mobile"
+    } ]
+  }, {
+    "id" : 34,
+    "fullname" : "test1",
+    "username" : "test1",
+    "password" : "TeSt123",
+    "email" : "test1@test.com",
+    "dob" : "31/10/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 35,
+    "fullname" : "test9",
+    "username" : "test9",
+    "password" : "TeSt123",
+    "email" : "test9@test.com",
+    "dob" : "08/11/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 36,
+    "fullname" : "test19",
+    "username" : "test19",
+    "password" : "TeSt123",
+    "email" : "test19@test.com",
+    "dob" : "18/11/1987",
+    "contact" : [ {
+      "id" : 27,
+      "phone" : "19191919",
+      "type" : "Home"
+    } ]
+  }, {
+    "id" : 37,
+    "fullname" : "hasan hasan",
+    "username" : "hasanh",
+    "password" : "h12345432",
+    "email" : "selman.jagxhiu@uni-prizren.com",
+    "dob" : "23/02/1988",
+    "contact" : [ {
+      "id" : 28,
+      "phone" : "111 222 333",
+      "type" : "Mobile"
+    }, {
+      "id" : 29,
+      "phone" : "44444444",
+      "type" : "Work"
+    } ]
+  }, {
+    "id" : 38,
+    "fullname" : "hasan hasan",
+    "username" : "hasanh",
+    "password" : "h12345432",
+    "email" : "selman.jagxhiu@uni-prizren.com",
+    "dob" : "23/02/1988",
+    "contact" : [ {
+      "id" : 30,
+      "phone" : "111 222 333",
+      "type" : "Mobile"
+    }, {
+      "id" : 31,
+      "phone" : "44444444",
+      "type" : "Work"
+    } ]
+  }, {
+    "id" : 39,
+    "fullname" : "test14",
+    "username" : "test14",
+    "password" : "TeSt123",
+    "email" : "test14@test.com",
+    "dob" : "13/11/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 40,
+    "fullname" : "test6",
+    "username" : "test6",
+    "password" : "TeSt123",
+    "email" : "test6@test.com",
+    "dob" : "05/11/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 41,
+    "fullname" : "test7",
+    "username" : "test7",
+    "password" : "TeSt123",
+    "email" : "test7@test.com",
+    "dob" : "06/11/1987",
+    "contact" : [ ]
+  }, {
+    "id" : 42,
+    "fullname" : "test15",
+    "username" : "test15",
+    "password" : "TeSt123",
+    "email" : "test15@test.com",
+    "dob" : "14/11/1987",
+    "contact" : [ {
+      "id" : 32,
+      "phone" : "15151515",
+      "type" : "Home"
+    }, {
+      "id" : 33,
+      "phone" : "18181818",
+      "type" : "Mobile"
+    } ]
+  }, {
+    "id" : 43,
+    "fullname" : "test5",
+    "username" : "test5",
+    "password" : "TeSt123",
+    "email" : "test5@test.com",
+    "dob" : "04/11/1987",
+    "contact" : [ {
+      "id" : 34,
+      "phone" : "5555",
+      "type" : "Home"
+    }, {
+      "id" : 35,
+      "phone" : "8888",
+      "type" : "Mobile"
+    } ]
+  }, {
+    "id" : 44,
+    "fullname" : "test25",
+    "username" : "test25",
+    "password" : "TeSt123",
+    "email" : "test25@test.com",
+    "dob" : "24/11/1987",
+    "contact" : [ {
+      "id" : 36,
+      "phone" : "25252525",
+      "type" : "Home"
+    }, {
+      "id" : 37,
+      "phone" : "28282828",
+      "type" : "Mobile"
+    } ]
+  }, {
+    "id" : 45,
+    "fullname" : "test14",
+    "username" : "test14",
+    "password" : "TeSt123",
+    "email" : "test14@test.com",
+    "dob" : "13/11/1987",
+    "contact" : [ {
+      "id" : 38,
+      "phone" : "14141414",
+      "type" : "Home"
+    }, {
+      "id" : 39,
+      "phone" : "17171717",
+      "type" : "Mobile"
+    } ]
+  }, {
+    "id" : 46,
+    "fullname" : "test13",
+    "username" : "test13",
+    "password" : "TeSt123",
+    "email" : "test13@test.com",
+    "dob" : "12/11/1987",
+    "contact" : [ {
+      "id" : 40,
+      "phone" : "13131313",
+      "type" : "Home"
+    }, {
+      "id" : 41,
+      "phone" : "16161616",
+      "type" : "Mobile"
+    } ]
+  }, {
+    "id" : 48,
+    "fullname" : "test13",
+    "username" : "test13",
+    "password" : "TeSt123",
+    "email" : "test13@test.com",
+    "dob" : "12/11/1987",
+    "contact" : [ {
+      "id" : 42,
+      "phone" : "13131313",
+      "type" : "Home"
+    }, {
+      "id" : 43,
+      "phone" : "16161616",
+      "type" : "Mobile"
+    } ]
+  }, {
+    "id" : 49,
+    "fullname" : "test12",
+    "username" : "test12",
+    "password" : "TeSt123",
+    "email" : "test12@test.com",
+    "dob" : "11/11/1987",
+    "contact" : [ {
+      "id" : 44,
+      "phone" : "12121212",
+      "type" : "Home"
+    }, {
+      "id" : 45,
+      "phone" : "15151515",
+      "type" : "Mobile"
+    } ]
+  }, {
+    "id" : 50,
+    "fullname" : "test16",
+    "username" : "test16",
+    "password" : "TeSt123",
+    "email" : "test16@test.com",
+    "dob" : "15/11/1987",
+    "contact" : [ {
+      "id" : 46,
+      "phone" : "16161616",
+      "type" : "Home"
+    }, {
+      "id" : 47,
+      "phone" : "19191919",
+      "type" : "Mobile"
+    } ]
+  } ]
+}
